@@ -1,0 +1,32 @@
+# Do not publish complete game packages or extracted proprietary data.
+*.apk
+*.aab
+*.apks
+*.xapk
+*.idsig
+
+# Original and rebuilt game payloads.
+data.bin
+data1.bin
+data1_*.bin
+libapp*.so
+op.mp4
+sgelicense-android
+*_apk_tree/
+original/
+private-builds/
+
+# Signing material must always remain private.
+*.jks
+*.keystore
+*.p12
+*.pem
+
+# Local build output and caches.
+build/
+outputs/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
