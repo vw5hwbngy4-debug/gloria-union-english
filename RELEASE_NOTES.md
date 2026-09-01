@@ -24,7 +24,10 @@ Version 0.25 is the first story-playable English release candidate.
 
 ## Distribution
 
-The public download will be a patch that requires the user to provide an original
-copy of the game. The complete modified APK is intentionally excluded from this
-repository and its public releases.
+The public download is `GloriaUnion-English-v0.25-Patch-Windows.zip`. It requires
+the exact supported original APK and refuses to patch any other file. The complete
+modified APK is intentionally excluded from this repository and its releases.
 
+Public patch ZIP SHA-256:
+
+`d281e2665065dd3d114d3997625923de3c9e8277aa4bbad76f081e7d57819e76`

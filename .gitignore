@@ -4,6 +4,8 @@
 *.apks
 *.xapk
 *.idsig
+*.gupatch
+*-Patch-Windows.zip
 
 # Original and rebuilt game payloads.
 data.bin
@@ -15,6 +17,7 @@ sgelicense-android
 *_apk_tree/
 original/
 private-builds/
+release-assets/
 
 # Signing material must always remain private.
 *.jks
@@ -29,4 +32,3 @@ __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
-

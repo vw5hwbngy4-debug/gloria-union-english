@@ -1,0 +1,3 @@
+d281e2665065dd3d114d3997625923de3c9e8277aa4bbad76f081e7d57819e76  GloriaUnion-English-v0.25-Patch-Windows.zip
+df8c8f50a4c0f72e5ddc5ae60c6d48359baef0d5b627ad679befe01f2fc33d05  GloriaUnion-English-v0.25.gupatch
+

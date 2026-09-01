@@ -10,9 +10,10 @@ screens have also been localized.
 
 ## Release status
 
-The public patch package is being prepared. A complete modified game APK is not
-stored in this repository. Players will need to supply their own legally obtained
-original game files when applying the translation patch.
+The verified v0.25 patch package is distributed through this repository's GitHub
+Releases page. A complete modified game APK is not stored in the repository or
+release. Players must supply the exact supported original APK when applying the
+translation patch.
 
 See:
 
@@ -20,6 +21,7 @@ See:
 - [Installation status](INSTALL.md)
 - [Known limitations](docs/KNOWN_LIMITATIONS.md)
 - [Private-build verification](BUILD_EVIDENCE.md)
+- [Patch format](docs/PATCH_FORMAT.md)
 
 ## Credits
 
